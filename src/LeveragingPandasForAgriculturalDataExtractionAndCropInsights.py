@@ -67,6 +67,6 @@ elif ch == 3:
     #-----------------
     i_time = float(input("\n\ncan I know the time you have to grow the crop(in days) :  "))
     print(data[['Crop Name','Type','Type of Fertilizer','Time' ]][data['Time']<=i_time]
-          .sort_values('Time Duration for Harvest'))
+          .sort_values('Time'))
 else:
     print("noties: sorry,you have entered the wrong option!!")
