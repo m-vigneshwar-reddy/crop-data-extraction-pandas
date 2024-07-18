@@ -1,0 +1,520 @@
+Crop Name,Type of Fertilizer,Time,Best Season,Best Soil,Type
+Rice,Nitrogen-based fertilizer,135,Kharif,Alluvial soil,Cereal
+Wheat,Nitrogen-based fertilizer,115,Rabi,Loamy soil,Cereal
+Maize,Phosphorus-based fertilizer,105,Kharif,Sandy loam,Cereal
+Cotton,Potassium-based fertilizer,165,Kharif,Black soil,Fiber
+Soybeans,Nitrogen-based fertilizer,115,Kharif,Clay loam,Legume
+Sugarcane,Nitrogen-based fertilizer,540,Rabi,Loamy soil,Cash
+Tomatoes,Phosphorus-based fertilizer,70,Kharif,Sandy loam,Vegetable
+Potatoes,Potassium-based fertilizer,105,Rabi,Sandy loam,Vegetable
+Onions,Nitrogen-based fertilizer,105,Rabi,Alluvial soil,Vegetable
+Carrots,Phosphorus-based fertilizer,80,Rabi,Sandy loam,Vegetable
+Apples,Potassium-based fertilizer,1460,Kharif,Loamy soil,Fruit
+Oranges,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Bananas,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Grapes,Phosphorus-based fertilizer,125,Kharif,Sandy loam,Fruit
+Mangoes,Potassium-based fertilizer,135,Kharif,Laterite soil,Fruit
+Pineapples,Nitrogen-based fertilizer,540,Rabi,Laterite soil,Fruit
+Avocados,Phosphorus-based fertilizer,913,Kharif,Laterite soil,Fruit
+Strawberries,Potassium-based fertilizer,135,Rabi,Loamy soil,Fruit
+Blueberries,Nitrogen-based fertilizer,913,Kharif,Loamy soil,Fruit
+Lettuce,Nitrogen-based fertilizer,60,Rabi,Sandy loam,Vegetable
+Cabbage,Phosphorus-based fertilizer,95,Rabi,Alluvial soil,Vegetable
+Broccoli,Potassium-based fertilizer,75,Rabi,Sandy loam,Vegetable
+Spinach,Nitrogen-based fertilizer,40,Kharif,Clay loam,Vegetable
+Cucumbers,Phosphorus-based fertilizer,60,Kharif,Sandy loam,Vegetable
+Pumpkins,Potassium-based fertilizer,100,Kharif,Alluvial soil,Vegetable
+Peppers,Nitrogen-based fertilizer,75,Rabi,Sandy loam,Vegetable
+Zucchini,Phosphorus-based fertilizer,50,Kharif,Sandy loam,Vegetable
+Eggplants,Potassium-based fertilizer,70,Rabi,Loamy soil,Vegetable
+Radishes,Nitrogen-based fertilizer,25,Rabi,Alluvial soil,Vegetable
+Beans,Phosphorus-based fertilizer,60,Kharif,Sandy loam,Legume
+Peas,Potassium-based fertilizer,70,Rabi,Sandy loam,Legume
+Asparagus,Nitrogen-based fertilizer,913,Kharif,Loamy soil,Vegetable
+Celery,Phosphorus-based fertilizer,105,Rabi,Alluvial soil,Vegetable
+Artichokes,Potassium-based fertilizer,105,Rabi,Sandy loam,Vegetable
+Kale,Nitrogen-based fertilizer,65,Rabi,Clay loam,Vegetable
+Cantaloupe,Phosphorus-based fertilizer,95,Kharif,Sandy loam,Fruit
+Honeydew,Potassium-based fertilizer,100,Kharif,Alluvial soil,Fruit
+Watercress,Nitrogen-based fertilizer,45,Rabi,Clay loam,Vegetable
+Chard,Phosphorus-based fertilizer,65,Rabi,Sandy loam,Vegetable
+Mustard Greens,Potassium-based fertilizer,55,Kharif,Sandy loam,Vegetable
+Garlic,Nitrogen-based fertilizer,195,Rabi,Alluvial soil,Vegetable
+Cranberries,Potassium-based fertilizer,135,Kharif,Peat soil,Fruit
+Peaches,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Pears,Phosphorus-based fertilizer,1460,Kharif,Loamy soil,Fruit
+Plums,Potassium-based fertilizer,365,Kharif,Clay soil,Fruit
+Cherries,Nitrogen-based fertilizer,135,Kharif,Sandy loam,Fruit
+Raspberries,Potassium-based fertilizer,135,Rabi,Loamy soil,Fruit
+Blackberries,Nitrogen-based fertilizer,135,Kharif,Sandy loam,Fruit
+Pomegranates,Potassium-based fertilizer,365,Rabi,Loamy soil,Fruit
+Apricots,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Tangerines,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Nectarines,Potassium-based fertilizer,365,Rabi,Sandy loam,Fruit
+Kiwi,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Fruit
+Lima Beans,Phosphorus-based fertilizer,90,Kharif,Sandy loam,Legume
+Chickpeas,Potassium-based fertilizer,90,Rabi,Loamy soil,Legume
+Lentils,Nitrogen-based fertilizer,80,Rabi,Sandy loam,Legume
+Peanuts,Phosphorus-based fertilizer,120,Kharif,Sandy loam,Legume
+Almonds,Potassium-based fertilizer,730,Kharif,Sandy loam,Fruit
+Cashews,Nitrogen-based fertilizer,365,Rabi,Laterite soil,Fruit
+Pistachios,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Hazelnuts,Potassium-based fertilizer,365,Rabi,Loamy soil,Fruit
+Macadamia Nuts,Nitrogen-based fertilizer,730,Kharif,Loamy soil,Fruit
+Walnuts,Phosphorus-based fertilizer,365,Rabi,Sandy loam,Fruit
+Chestnuts,Potassium-based fertilizer,365,Kharif,Loamy soil,Fruit
+Pecans,Nitrogen-based fertilizer,730,Rabi,Sandy loam,Fruit
+Hops,Phosphorus-based fertilizer,150,Kharif,Loamy soil,Fiber
+Flaxseed,Potassium-based fertilizer,100,Rabi,Sandy loam,Fiber
+Sunflower Seeds,Nitrogen-based fertilizer,90,Kharif,Loamy soil,Fiber
+Sesame Seeds,Phosphorus-based fertilizer,120,Rabi,Sandy loam,Fiber
+Cottonseed,Potassium-based fertilizer,150,Kharif,Black soil,Fiber
+Jute,Nitrogen-based fertilizer,120,Rabi,Alluvial soil,Fiber
+Hemp,Phosphorus-based fertilizer,150,Kharif,Loamy soil,Fiber
+Kenaf,Potassium-based fertilizer,180,Rabi,Clay soil,Fiber
+Tobacco,Nitrogen-based fertilizer,120,Kharif,Sandy loam,Fiber
+Quinoa,Phosphorus-based fertilizer,90,Rabi,Sandy loam,Cereal
+Amaranth,Potassium-based fertilizer,100,Kharif,Loamy soil,Cereal
+Millet,Nitrogen-based fertilizer,90,Rabi,Sandy loam,Cereal
+Barley,Phosphorus-based fertilizer,120,Kharif,Loamy soil,Cereal
+Oats,Potassium-based fertilizer,100,Rabi,Clay loam,Cereal
+Rye,Nitrogen-based fertilizer,90,Kharif,Sandy loam,Cereal
+Triticale,Phosphorus-based fertilizer,120,Rabi,Loamy soil,Cereal
+Sorghum,Potassium-based fertilizer,100,Kharif,Sandy loam,Cereal
+Flax,Nitrogen-based fertilizer,90,Rabi,Loamy soil,Fiber
+Ramie,Phosphorus-based fertilizer,120,Kharif,Clay soil,Fiber
+Abaca,Potassium-based fertilizer,150,Rabi,Peat soil,Fiber
+Sisal,Nitrogen-based fertilizer,120,Kharif,Sandy loam,Fiber
+Kapok,Phosphorus-based fertilizer,150,Rabi,Loamy soil,Fiber
+Coir,Potassium-based fertilizer,180,Kharif,Clay soil,Fiber
+Mulberry,Nitrogen-based fertilizer,120,Rabi,Sandy loam,Fiber
+Silk,Nitrogen-based fertilizer,150,Kharif,Sandy loam,Fiber
+Linseed,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Fiber
+Bamboo,Potassium-based fertilizer,365,Kharif,Loamy soil,Fiber
+Henequen,Nitrogen-based fertilizer,180,Rabi,Clay soil,Fiber
+Jute,Phosphorus-based fertilizer,210,Kharif,Alluvial soil,Fiber
+Ramie,Potassium-based fertilizer,240,Rabi,Loamy soil,Fiber
+Sisal,Nitrogen-based fertilizer,270,Kharif,Alluvial soil,Fiber
+Buckwheat,Phosphorus-based fertilizer,70,Rabi,Sandy loam,Cereal
+Tea,Potassium-based fertilizer,365,Rabi,Loamy soil,Beverage
+Coffee,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Beverage
+Saffron,Phosphorus-based fertilizer,180,Rabi,Sandy loam,Spice
+Vanilla,Potassium-based fertilizer,365,Kharif,Loamy soil,Spice
+Cinnamon,Nitrogen-based fertilizer,365,Rabi,Alluvial soil,Spice
+Nutmeg,Phosphorus-based fertilizer,180,Kharif,Laterite soil,Spice
+Cardamom,Potassium-based fertilizer,365,Rabi,Loamy soil,Spice
+Ginger,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Turmeric,Phosphorus-based fertilizer,180,Rabi,Alluvial soil,Spice
+Paprika,Potassium-based fertilizer,365,Kharif,Loamy soil,Spice
+Coriander,Nitrogen-based fertilizer,180,Rabi,Sandy loam,Spice
+Cumin,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Basil,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Mint,Nitrogen-based fertilizer,180,Kharif,Clay loam,Herb
+Rosemary,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Thyme,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Oregano,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Parsley,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Dill,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Chives,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Bay leaf,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Sage,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Fennel,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Cloves,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Allspice,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Anise,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Nigella,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Annatto,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Wasabi,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Mace,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Szechuan Pepper,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Juniper,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Caraway,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Pimento,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Capers,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Lovage,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Tarragon,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Angelica,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Marjoram,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Savory,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Borage,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Lavender,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Camomile,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Comfrey,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Hyssop,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Lemon balm,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Mugwort,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Pennyroyal,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Rue,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Sweet woodruff,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Wormwood,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Yarrow,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Galangal,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Kaffir lime leaves,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Patchouli,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Licorice,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Bergamot,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Calendula,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Chamomile,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Dandelion,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Echinacea,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Evening primrose,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Feverfew,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Ginseng,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Horehound,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Lemon verbena,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Lemon grass,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Marshmallow,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Mullein,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+St. John's wort,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Tansy,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Valerian,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Wild lettuce,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Wood betony,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Yarrow,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Za'atar,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Chicory,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Madder,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Woad,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Alfalfa,Nitrogen-based fertilizer,30,Kharif,Sandy loam,Legume
+Clover,Phosphorus-based fertilizer,60,Kharif,Loamy soil,Legume
+Cowpeas,Potassium-based fertilizer,90,Kharif,Clay loam,Legume
+Fava beans,Nitrogen-based fertilizer,120,Kharif,Alluvial soil,Legume
+Velvet beans,Phosphorus-based fertilizer,150,Rabi,Laterite soil,Legume
+Buckwheat,Potassium-based fertilizer,70,Rabi,Sandy loam,Cereal
+Tea,Potassium-based fertilizer,365,Rabi,Loamy soil,Beverage
+Coffee,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Beverage
+Saffron,Phosphorus-based fertilizer,180,Rabi,Sandy loam,Spice
+Vanilla,Potassium-based fertilizer,365,Kharif,Loamy soil,Spice
+Cinnamon,Nitrogen-based fertilizer,365,Rabi,Alluvial soil,Spice
+Nutmeg,Phosphorus-based fertilizer,180,Kharif,Laterite soil,Spice
+Cardamom,Potassium-based fertilizer,365,Rabi,Loamy soil,Spice
+Ginger,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Turmeric,Phosphorus-based fertilizer,180,Rabi,Alluvial soil,Spice
+Paprika,Potassium-based fertilizer,365,Kharif,Loamy soil,Spice
+Coriander,Nitrogen-based fertilizer,180,Rabi,Sandy loam,Spice
+Cumin,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Basil,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Mint,Nitrogen-based fertilizer,180,Kharif,Clay loam,Herb
+Rosemary,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Thyme,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Oregano,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Parsley,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Dill,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Chives,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Bay leaf,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Sage,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Fennel,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Cloves,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Allspice,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Anise,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Nigella,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Annatto,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Wasabi,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Mace,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Szechuan Pepper,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Juniper,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Caraway,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Pimento,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Capers,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Lovage,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Tarragon,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Angelica,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Marjoram,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Savory,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Borage,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Lavender,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Camomile,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Comfrey,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Hyssop,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Lemon balm,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Mugwort,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Pennyroyal,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Rue,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Sweet woodruff,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Wormwood,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Yarrow,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Galangal,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Kaffir lime leaves,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Spice
+Patchouli,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Licorice,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Bergamot,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Spice
+Calendula,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Chamomile,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Dandelion,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Echinacea,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Evening primrose,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Feverfew,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Ginseng,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Horehound,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Lemon verbena,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Lemon grass,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Marshmallow,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Mullein,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+St. John's wort,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Tansy,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Valerian,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Wild lettuce,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Wood betony,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Yarrow,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Herb
+Za'atar,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Chicory,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Madder,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Herb
+Woad,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Agave,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fiber
+Sisal,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Fiber
+Coir,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fiber
+Ramie,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fiber
+Flax,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Fiber
+Hemp,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fiber
+Kenaf,Nitrogen-based fertilizer,365,Rabi,Laterite soil,Fiber
+Jute,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Fiber
+Cotton,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Fiber
+Hemp,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fiber
+Kenaf,Nitrogen-based fertilizer,365,Rabi,Laterite soil,Fiber
+Jute,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Fiber
+Cotton,Phosphorus-based fertilizer,180,Rabi,Loamy soil,Fiber
+Flaxseed,Nitrogen-based fertilizer,90,Kharif,Loamy soil,Fiber
+Sunflower Seeds,Phosphorus-based fertilizer,90,Rabi,Loamy soil,Fiber
+Sesame Seeds,Potassium-based fertilizer,120,Kharif,Loamy soil,Fiber
+Cottonseed,Nitrogen-based fertilizer,150,Rabi,Alluvial soil,Fiber
+Jute,Phosphorus-based fertilizer,180,Kharif,Loamy soil,Fiber
+Hemp,Potassium-based fertilizer,210,Rabi,Clay soil,Fiber
+Kenaf,Nitrogen-based fertilizer,240,Kharif,Laterite soil,Fiber
+Tobacco,Phosphorus-based fertilizer,365,Rabi,Sandy loam,Fiber
+Quinoa,Potassium-based fertilizer,365,Kharif,Loamy soil,Cereal
+Amaranth,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Cereal
+Millet,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Cereal
+Barley,Potassium-based fertilizer,365,Rabi,Alluvial soil,Cereal
+Oats,Nitrogen-based fertilizer,365,Kharif,Clay loam,Cereal
+Rye,Phosphorus-based fertilizer,365,Rabi,Sandy loam,Cereal
+Triticale,Potassium-based fertilizer,365,Kharif,Loamy soil,Cereal
+Sorghum,Nitrogen-based fertilizer,365,Rabi,Alluvial soil,Cereal
+Flax,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Fiber
+Ramie,Phosphorus-based fertilizer,365,Rabi,Clay soil,Fiber
+Abaca,Potassium-based fertilizer,365,Kharif,Peat soil,Fiber
+Sisal,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fiber
+Kapok,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fiber
+Coir,Potassium-based fertilizer,365,Rabi,Clay soil,Fiber
+Mulberry,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fiber
+Silk,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fiber
+Bamboo,Nitrogen-based fertilizer,365,Rabi,Alluvial soil,Fiber
+Coriander,Nitrogen-based fertilizer,60,Rabi,Sandy loam,Herb
+Basil,Phosphorus-based fertilizer,90,Kharif,Loamy soil,Herb
+Mint,Potassium-based fertilizer,120,Rabi,Alluvial soil,Herb
+Thyme,Nitrogen-based fertilizer,60,Kharif,Sandy loam,Herb
+Rosemary,Phosphorus-based fertilizer,90,Rabi,Loamy soil,Herb
+Saffron,Potassium-based fertilizer,120,Kharif,Alluvial soil,Spice
+Cinnamon,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Nutmeg,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Cardamom,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Turmeric,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Ginger,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Spice
+Cumin,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Paprika,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Vanilla,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Star anise,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Fenugreek,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Mustard,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Lovage,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Sesame,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Poppy,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Fennel,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Chamomile,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Dill,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Caraway,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Parsley,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Oregano,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Sage,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Tarragon,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Lemongrass,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Bay leaf,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Juniper,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Coriander,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Basil,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Mint,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Thyme,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Rosemary,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Saffron,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Cinnamon,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Nutmeg,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Cardamom,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Turmeric,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Spice
+Ginger,Potassium-based fertilizer,365,Kharif,Alluvial soil,Spice
+Cumin,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Spice
+Paprika,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Spice
+Vanilla,Potassium-based fertilizer,365,Rabi,Alluvial soil,Spice
+Star anise,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Spice
+Fenugreek,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Mustard,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Lovage,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Sesame,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Poppy,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Fennel,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Chamomile,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Dill,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Caraway,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Parsley,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Oregano,Potassium-based fertilizer,365,Rabi,Alluvial soil,Herb
+Sage,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Herb
+Tarragon,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Herb
+Lemongrass,Potassium-based fertilizer,365,Kharif,Alluvial soil,Herb
+Bay leaf,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Herb
+Juniper,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Herb
+Pouteria campechiana,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Pulasan,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Purple mangosteen,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Rambai,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Red mombin,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Rose apple,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Safou,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Salak,Phosphorus-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Santol,Potassium-based fertilizer,365,Kharif,Sandy loam,Fruit
+Snake fruit,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Fruit
+Soncoya,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Sugar apple,Potassium-based fertilizer,365,Kharif,Sandy loam,Fruit
+Surinam cherry,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Fruit
+Tamarind,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Tangerine,Potassium-based fertilizer,365,Kharif,Sandy loam,Fruit
+Tamarillo,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Fruit
+Umbu,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Yuzu,Potassium-based fertilizer,365,Kharif,Sandy loam,Fruit
+Yamamomo,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Fruit
+Ginkgo biloba,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Ailanthus altissima,Potassium-based fertilizer,365,Rabi,Sandy loam,Tree
+American beech,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Tree
+Carpinus betulus,Phosphorus-based fertilizer,365,Rabi,Alluvial soil,Tree
+Castanea sativa,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Common ash,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Diospyros kaki,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Eastern cottonwood,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Eucalyptus globulus,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Fagus sylvatica,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Fraxinus excelsior,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Ginkgo biloba,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Gleditsia triacanthos,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Gymnocladus dioicus,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Juglans regia,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Koelreuteria paniculata,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Larix decidua,Potassium-based fertilizer,365,Rabi,Sandy loam,Tree
+Liquidambar styraciflua,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Tree
+Liriodendron tulipifera,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Maclura pomifera,Potassium-based fertilizer,365,Rabi,Sandy loam,Tree
+Magnolia grandiflora,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Morus nigra,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Nyssa sylvatica,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Platanus occidentalis,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Populus tremula,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Prunus avium,Potassium-based fertilizer,365,Rabi,Sandy loam,Tree
+Pseudotsuga menziesii,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Tree
+Pyrus communis,Phosphorus-based fertilizer,365,Rabi,Alluvial soil,Tree
+Quercus robur,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Robinia pseudoacacia,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Salix alba,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Sorbus aucuparia,Potassium-based fertilizer,365,Rabi,Sandy loam,Tree
+Stewartia pseudocamellia,Nitrogen-based fertilizer,365,Kharif,Loamy soil,Tree
+Tilia cordata,Phosphorus-based fertilizer,365,Kharif,Alluvial soil,Tree
+Ulmus glabra,Potassium-based fertilizer,365,Kharif,Sandy loam,Tree
+Zelkova serrata,Nitrogen-based fertilizer,365,Rabi,Loamy soil,Tree
+Chives,Nitrogen-based fertilizer,60,Rabi,Sandy loam,Herb
+Lavender,Phosphorus-based fertilizer,90,Kharif,Loamy soil,Herb
+Marjoram,Potassium-based fertilizer,120,Rabi,Alluvial soil,Herb
+Rocket,Nitrogen-based fertilizer,60,Kharif,Sandy loam,Herb
+Wasabi,Phosphorus-based fertilizer,90,Rabi,Loamy soil,Herb
+Watermelon,Potassium-based fertilizer,120,Kharif,Alluvial soil,Fruit
+Cantaloupe,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Honeydew,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Papaya,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Dragon Fruit,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Guava,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Passion Fruit,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Kiwi,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Mulberry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Persimmon,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Durian,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Lychee,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Jackfruit,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Longan,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Pomegranate,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Starfruit,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Plantain,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Cherimoya,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Guava,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Feijoa,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Tamarind,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Acerola,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Kumquat,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Quince,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Rambutan,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Salak,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Persimmon,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Jabuticaba,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Camu Camu,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Pawpaw,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Breadfruit,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Ackee,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Jujube,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Black Sapote,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Bael,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Bilberry,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Cloudberry,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Cranberry,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Crowberry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Gooseberry,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Loganberry,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Marionberry,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Tayberry,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Boysenberry,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Huckleberry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Salmonberry,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Elderberry,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Acai,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Goji berry,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Sea buckthorn,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Buffaloberry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Cranberry,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Rosehip,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Schisandra berry,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Currant,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Barberry,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Juneberry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Hackberry,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Serviceberry,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Pawpaw,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Medlar,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Saskatoon berry,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Rowan berry,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Kei apple,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Chokeberry,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Bayberry,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Cupuacu,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Kiwano,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Ice cream bean,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Monkey fruit,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Nance,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Salmonberry,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Sapodilla,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Soursop,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Sugar apple,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Surinam cherry,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Yangmei,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Wax apple,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+White sapote,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Chayote,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Carambola,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Canistel,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Carissa,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Che,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Cupuaçu,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Gandaria,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Genip,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Hog plum,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Huito,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Jabuticaba,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Jambul,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Jatobá,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
+Langsat,Phosphorus-based fertilizer,365,Kharif,Loamy soil,Fruit
+Loquat,Potassium-based fertilizer,365,Rabi,Alluvial soil,Fruit
+Mabolo,Nitrogen-based fertilizer,365,Kharif,Sandy loam,Fruit
+Mamey sapote,Phosphorus-based fertilizer,365,Rabi,Loamy soil,Fruit
+Mamoncillo,Potassium-based fertilizer,365,Kharif,Alluvial soil,Fruit
+Mangaba,Nitrogen-based fertilizer,365,Rabi,Sandy loam,Fruit
